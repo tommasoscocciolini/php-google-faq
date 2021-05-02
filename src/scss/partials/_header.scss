@@ -1,0 +1,17 @@
+header {
+  .top-header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    span{
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+  }
+  nav{
+    ul{
+    display: flex;
+    justify-content: space-around;
+    }
+  }
+}

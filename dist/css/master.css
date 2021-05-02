@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+header .top-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+header .top-header span {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+}
