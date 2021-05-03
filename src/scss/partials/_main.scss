@@ -1,4 +1,11 @@
-// main .container{
-//   width: 80%;
-//   margin: 0 auto;
-// }
+main{
+  div.container{
+    h2{
+      margin-top: 10px;
+    }
+    p{
+      margin: 10px 0;
+      line-height: 1.5em;
+    }
+  }
+}
